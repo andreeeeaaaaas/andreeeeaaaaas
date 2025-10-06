@@ -7,14 +7,15 @@ Mainly product design and development for social good, but also strange music ma
 ## 🌱 I’m currently learning ...
 - Lua to code a script on my Monome Norns
 - Javascript
+- Typescript
 
-## 📚 I want to learn ...
+## 📚 I want to learn more...
 - Lua, code my first script on my Monome Norns
 - More about Audio Software Engineering
 - React/Typescript (front-end stuff)
 
 ## 💞️ I’m looking to collaborate on ...
-- Nothing atm
+- Nothing at the moment!
 
 ## Me
 - 📫 me@andreasthoma.com
